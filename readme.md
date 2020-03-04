@@ -10,7 +10,8 @@ cd 文件路径
 ```
 cnpm install  //等待下载完成
 
-如果
+如果没有用过可以先下载安装Node.js，配置cnpm淘宝镜像
+视频教程：https://www.bilibili.com/video/av78804411
 
 ```
 
