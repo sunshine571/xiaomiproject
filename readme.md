@@ -1,6 +1,7 @@
 ## 项目使用简要说明
 1.  先去下载该代码
-2.  打开终端（windows的同学打开CMD控制台）
+2.  安装nodeJS
+> nodeJS下载地址： 链接:https://pan.baidu.com/s/1BHjZk0JjginOjgn2XNjgnQ  密码:7qo9
 3.  进入当前文件夹
 
 ```
