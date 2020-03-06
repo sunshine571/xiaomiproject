@@ -1,7 +1,8 @@
 ## 项目使用简要说明
 1.  先去下载该代码
 2.  安装nodeJS
-> nodeJS下载地址： 链接:https://pan.baidu.com/s/1BHjZk0JjginOjgn2XNjgnQ  密码:7qo9
+> nodeJS下载地址： 链接:https://pan.baidu.com/s/1BHjZk0JjginOjgn2XNjgnQ  密码:7qo9<br/>>
+> 打开 nodejs prompt    （开始键 => nodejs文件夹 => nodejs prompt）
 3.  进入当前文件夹
 
 ```
