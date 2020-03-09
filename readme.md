@@ -3,7 +3,7 @@
 > 首页： http://212.64.57.118:81/<br/>
 > 列表页：http://212.64.57.118:81/list.html<br/>
 > 点击商品进入详情页：http://212.64.57.118:81/goodsDesc.html?product_id=10000150<br/>
-> 订单结算页：http://212.64.57.118:81/goodsCar.html  (加入购物车)
+> 订单结算页：http://212.64.57.118:81/goodsCar.html  (加入购物车)<br/>
 > 登陆页：http://212.64.57.118:81/login.html<br/>
 > 注册页：http://212.64.57.118:81/register.html
 ## 项目及视频简介
@@ -23,6 +23,15 @@
 > ##### PHPnow集成安装包下载
 > 链接:https://pan.baidu.com/s/1PLQQBTYbYJyH09fm7tt80w  密码:g8ec<br/>
 > ##### PHPnow安装教程，和学习视频 https://www.bilibili.com/video/av78185809
+
+> ##### 登陆和注册用户表示例
+![image](http://m.qpic.cn/psc?/V13wE8sQ0FBtUy/Z8mA*wjspi7Sh9uHloWZ03s7icl5uLwTcFVQ4YCu5xSu7RcTh8B3TLPnmIKGpCA7LXZ6o*Uo0xc9InBjsAlwjw!!/b&bo=LAOTAAAAAAADB54!&rf=viewer_4)
+
+> #### 部分接口示例
+> ##### 导航部分数据：http://212.64.57.118:81/data/nav.json
+> ##### 首页商品数据：http://212.64.57.118:81/data/data.json
+> ##### 商品列表页数据：http://212.64.57.118:81/data/goodsList.json
+
 
 <br/>
 
