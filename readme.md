@@ -80,9 +80,3 @@ gulp + 回车  //启动
 > https://www.bilibili.com/video/av91238027
 
 
-
-## UP主微信 B站ID
-> 大家有兴趣可以添加up主微信 
-![image](http://a1.qpic.cn/psc?/V13wE8sQ0FBtUy/Z8mA*wjspi7Sh9uHloWZ0zG.KcpFgeou2FsOU.*fHvnX7ZL*a0c2E3SK69nOY4AiycepmAUvmk9AiX*NQguBZg!!/b&ek=1&kp=1&pt=0&bo=mQPSAQAAAAADJ0s!&tl=1&vuin=1685303031&tm=1583636400&sce=60-2-2&rf=viewer_4)
-
-
